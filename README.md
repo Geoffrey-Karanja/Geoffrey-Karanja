@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Geoffrey Karanja 
 
-<!--
-**Geoffrey-Karanja/Geoffrey-Karanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 💻 Proficient **Front-End Developer** with strong skills in **HTML, CSS, JavaScript (ES6+), React, and Bootstrap**  
+- 🌱 Currently learning **Back-End development** with **Java (Spring Boot, Hibernate), Python (Django, Flask, FastAPI), MySQL, and MongoDB**  
+- ⚡ Passionate about building **scalable, interactive, and user-friendly web applications**  
+- 🤝 Open to **collaboration** and **open-source contributions**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+- HTML5 | CSS3 | JavaScript (ES6+) | React | Bootstrap | Redux | Material UI  
+
+**Backend (Learning):**  
+- Java (Spring Boot, Hibernate) | Python (Django, Flask, FastAPI)  
+
+**Databases:**  
+- MySQL | MongoDB  
+
+**Tools & Others:**  
+- Git & GitHub | VS Code | IntelliJ IDEA | Postman  
+
+---
+
+## 📊 GitHub Stats  
+
+![Geoffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoffreyKaranja&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoffreyKaranja&layout=compact&theme=tokyonight)  
+
+
+## 🌐 Connect with Me  
+- 📫 Email: [gkaranja273@gmail.com] 
+
+---
+✨ *"Front-End Developer | Back-End in Progress | Future Full-Stack Engineer"* ✨
